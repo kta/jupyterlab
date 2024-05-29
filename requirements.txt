@@ -1,0 +1,14 @@
+pandas
+numpy
+seaborn
+scikit-learn
+scipy
+psycopg2-binary
+ydata-profiling
+IProgress
+ipywidgets
+Pillow
+matplotlib
+pandas_datareader
+japanize_matplotlib
+SQLAlchemy
